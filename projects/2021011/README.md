@@ -16,7 +16,7 @@
 | --- | --- | --- | --- |
 | 1 |  [Εισαγωγή](https://github.com/AthJim/hci/tree/2021011/projects/2021011) |[link 1ο Παραδοτέο](https://github.com/courses-ionio/help/discussions/932) |
 | 2 | Άσκηση γραμμής εντολών (linux install) |[link 2ο Παραδοτέο](https://github.com/courses-ionio/help/discussions/1122) | |
-| 3 | Συμμετοχικό περιεχόμενο A1 | | |
+| 3 | Συμμετοχικό περιεχόμενο A1 |[link 3ο Παραδοτέο](https://github.com/courses-ionio/help/discussions/1208) | |
 | 4 | Άσκηση γραμμής εντολών (warm up cli) | | |
 | 5 | Συμμετοχικό περιεχόμενο A2 | | |
 | 6 | Κατασκευή του βιβλίου Α | | |
